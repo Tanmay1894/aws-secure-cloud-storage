@@ -1,6 +1,6 @@
 # AWS Secure Cloud Storage & Threat Detection
 
-A practical AWS security lab focused on secure S3 storage, IAM least privilege, CloudTrail monitoring, CloudWatch detection, SNS alerting, and Python-based log analysis.
+This project is a complete AWS security lab that secures an S3 storage environment, enforces IAM least privilege, monitors activity with CloudTrail and CloudWatch, generates SNS alerts for suspicious events, and analyzes CloudTrail logs with Python.
 
 ---
 
