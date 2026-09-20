@@ -91,18 +91,18 @@ The analyzer detected:
 
 ### Policies
 
-- [policies/](policies/)
-  - [bucket-policy.json](policies/bucket-policy.json)
-  - [developers-policy.json](policies/developers-policy.json)
-  - [auditors-policy.json](policies/auditors-policy.json)
-  - [cloudtrail-cwl-trust-policy.json](policies/cloudtrail-cwl-trust-policy.json)
-  - [cloudtrail-cwl-permissions.json](policies/cloudtrail-cwl-permissions.json)
+- [policies/](policy/)
+  - [bucket-policy.json](policy/bucket-policy.json)
+  - [developers-policy.json](policy/developers-policy.json)
+  - [auditors-policy.json](policy/auditors-policy.json)
+  - [cloudtrail-cwl-trust-policy.json](policy/cloudtrail-cwl-trust-policy.json)
+  - [cloudtrail-cwl-permissions.json](policy/cloudtrail-cwl-permissions.json)
 
 ### Scripts
 
-- [scripts/](scripts/)
-  - [analyzer.py](scripts/analyzer.py)
-  - [cleanup.sh](scripts/cleanup.sh)
+- [scripts/](script/)
+  - [analyzer.py](script/analyzer.py)
+  - [cleanup.sh](script/cleanup.sh)
 
 ### Tests
 
