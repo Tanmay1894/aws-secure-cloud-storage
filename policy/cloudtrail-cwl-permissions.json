@@ -1,0 +1,8 @@
+{
+ "Version": "2012-10-17",
+ "Statement": [{
+ "Effect": "Allow",
+ "Action": ["logs:CreateLogStream", "logs:PutLogEvents"],
+ "Resource": "arn:aws:logs:ap-south-1:671590615416:log-group:/cloudtrail/cloudsec-lab:*"
+ }]
+}
